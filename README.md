@@ -5,8 +5,9 @@
 -  👯 One of the projects I have worked on and completed is Dalab E-commerce, an online shopping platform. I built the frontend using Next.js and React, and used Supabase for the backend. The platform has two main phases: one for users and another for admins.
 
 
-• User phase: https://production-version.vercel.app/
-• Admin phase: https://dashboard-dalab.vercel.app/
+• # User phase: https://production-version.vercel.app/
+
+• # Admin phase: https://dashboard-dalab.vercel.app/
 
 
 - 📫 My Portfolio: https://final-portofolio-hazel.vercel.app/
