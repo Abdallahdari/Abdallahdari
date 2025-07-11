@@ -1,7 +1,7 @@
 ### Hi there 👋
 # 👋 My name is Abdallah, and I am a Full Stack Developer.
 
-###🎓 Bachelor’s degree in Software Engineering from Üsküdar University.
+### 🎓 Bachelor’s degree in Software Engineering from Üsküdar University.
 
 - 🔭 I’m currently working on Hantiiye System 
 -  👯 One of the projects I have worked on and completed is Dalab E-commerce, an online shopping platform. I built the frontend using Next.js and React, and used Supabase for the backend. The platform has two main phases: one for users and another for admins.
