@@ -1,4 +1,4 @@
-#💫 About Me:
+### 💫 About Me:
 ### Hi there 👋<br># 👋 My name is Abdallah, and I am a Full Stack Developer.<br><br>### 🎓 Bachelor’s degree in Software Engineering from Üsküdar University.<br><br>- 🔭 I’m currently working on Hantiiye System <br>-  👯 One of the projects I have worked on and completed is Dalab E-commerce, an online shopping platform. I built the frontend using Next.js and React, and used Supabase for the backend. The platform has two main phases: one for users and another for admins.<br><br><br>### •  User phase: https://production-version.vercel.app/<br><br>### •  Admin phase: https://dashboard-dalab.vercel.app/<br><br># 📫 My Portfolio:<br>-https://final-portofolio-bice.vercel.app/<br>
 
 # 💻 Tech Stack:
